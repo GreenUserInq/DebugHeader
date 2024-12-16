@@ -1,0 +1,3 @@
+C:/Users/Dmitry/source/repos/DebugHeader/out/build/x64-debug/CMakeFiles/DebugHeader.dir
+C:/Users/Dmitry/source/repos/DebugHeader/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dmitry/source/repos/DebugHeader/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
